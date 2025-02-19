@@ -1,0 +1,12 @@
+{
+  "name": "nature-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compaile": "node-sass assets/scss/style.scss assets/css/style.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
